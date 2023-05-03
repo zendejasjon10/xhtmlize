@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Improve Docs arguments tables (#8415)
