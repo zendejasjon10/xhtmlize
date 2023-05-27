@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
