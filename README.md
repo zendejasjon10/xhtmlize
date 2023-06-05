@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+fix predict with class filter
