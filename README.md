@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add new YOLOv8 OBB model metrics (#7379)
