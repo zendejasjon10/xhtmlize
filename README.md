@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add integrations/gradio Docs page (#7935)
