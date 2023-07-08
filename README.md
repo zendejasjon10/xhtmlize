@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add OBB save_txt feature (#7450)
