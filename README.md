@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
