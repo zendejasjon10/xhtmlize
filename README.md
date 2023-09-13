@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
