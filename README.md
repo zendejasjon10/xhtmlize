@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
