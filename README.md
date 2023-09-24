@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
