@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
