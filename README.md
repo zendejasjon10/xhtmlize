@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Improve Docs Modes tables (#8266)
