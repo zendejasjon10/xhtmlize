@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
