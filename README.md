@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
