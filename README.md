@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+fix predict with class filter
