@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
