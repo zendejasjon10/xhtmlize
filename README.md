@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Fix device counting method to account for double-digit device IDs (#8502)
