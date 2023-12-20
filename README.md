@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add TensorRT Docs Integrations Page (#7855)
