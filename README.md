@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Fix xyxyxyxyn calculation in obb result (#8188)
