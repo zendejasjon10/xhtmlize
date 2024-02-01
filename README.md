@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Improve Docs Modes tables (#8266)
