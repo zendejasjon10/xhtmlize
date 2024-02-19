@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add settings runs_dir == datasets_dir warning (#8653)
