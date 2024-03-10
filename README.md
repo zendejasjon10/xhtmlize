@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+fix for KeyError: 'epoch' (#48)
