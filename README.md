@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add dota8.yaml and O tests (#7394)
