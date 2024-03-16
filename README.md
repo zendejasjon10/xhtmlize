@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
