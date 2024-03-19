@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update pyproject.toml and Docs (#7274)
