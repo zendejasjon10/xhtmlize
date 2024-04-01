@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
