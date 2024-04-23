@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
