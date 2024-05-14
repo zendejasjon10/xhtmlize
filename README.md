@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
