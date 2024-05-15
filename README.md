@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
