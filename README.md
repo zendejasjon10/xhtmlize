@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Auto-format by https://ultralytics.com/actions
