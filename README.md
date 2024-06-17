@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
