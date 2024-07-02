@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
