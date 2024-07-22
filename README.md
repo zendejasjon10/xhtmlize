@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
