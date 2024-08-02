@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
