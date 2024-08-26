@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
