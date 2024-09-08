@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
