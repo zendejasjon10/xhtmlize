@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+YOLOv8 INT8 TFLite Inference Example (#7317)
