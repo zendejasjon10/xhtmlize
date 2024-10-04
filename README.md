@@ -1,1 +1,1 @@
-add logs
+Mkdocs annotations fixes (#7600)
