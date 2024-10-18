@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
