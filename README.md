@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+* fix for predicting with batch_size > 1
