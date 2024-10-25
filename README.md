@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Retry once for Docker CI failures (#8164)
