@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Update CI.md with CI links (#8786)
