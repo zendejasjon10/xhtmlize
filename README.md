@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Update Docs Home and Neural Magic pages (#7243)
